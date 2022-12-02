@@ -1,0 +1,3 @@
+﻿  UnitTest5.cpp
+C:\uni\labs\Lab_06_01recursive\Lab_06_01recursive.cpp(35): warning C4715: 'Count': not all control paths return a value
+  UnitTest5.vcxproj -> C:\uni\labs\Lab_06_01recursive\x64\Debug\UnitTest5.dll
